@@ -6,6 +6,6 @@
   "author": "incrediblemolk",
   "license": "MIT",
   "dependencies": {
-     "express": "*"
+    "express": "*"
   }
 }
